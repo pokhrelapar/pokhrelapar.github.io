@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
+  more_info: >
     apar.pokhrel@mavs.uta.edu<br>
     Computer Science & Engineering<br>
     University of Texas - Arlington<br>
