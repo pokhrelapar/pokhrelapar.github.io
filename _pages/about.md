@@ -8,9 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Computer Science & Engineering</p>
-    <p>University of Texas at Arlington</p>
+  address: >
+    apar.pokhrel@mavs.uta.edu<br>
+    Computer Science & Engineering<br>
+    University of Texas - Arlington<br>
+    
   
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
