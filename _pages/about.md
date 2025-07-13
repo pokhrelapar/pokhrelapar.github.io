@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 8 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -37,4 +37,4 @@ I'm currently doing research at the Perception, Robotic Intelligence and Machine
 
 My research focuses on Diffusion Models, Point Clouds, and Machine Learning, with an emphasis on developing methods for high-quality scene understanding and photorealistic novel view synthesis.
 
-In my spare time, I enjoy spending time with my dog, reading, watching anime, and hiking!
+In my spare time, I enjoy spending time with Zeno (my 3-year old Golden Retriever), reading, watching anime, and hiking!
