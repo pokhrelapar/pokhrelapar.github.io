@@ -151,7 +151,7 @@ collections:
     output: true
   projects:
     output: true
-  teaching:
+  teachings:
     output: true
     permalink: /teaching/:path/
 

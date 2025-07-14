@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Courses and talks over the years
 nav: true
 nav_order: 4
-display_categories: [University of Texas at Arlington, Upward Bound Math and Science, Talks & Presentations]
+display_categories: [University of Texas at Arlington, Upward Bound Math and Science]
 horizontal: false
 ---
 
