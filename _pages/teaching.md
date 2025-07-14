@@ -30,7 +30,7 @@ horizontal: false
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_teaching %}
+    {% for teaching in sorted_teaching %}
       {% include teaching.liquid %}
     {% endfor %}
   </div>
