@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Apar Pokhrel",
+    "Role": "Graduate Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "apar.pokhrel@mavs.uta.edu",
+    "phone": "(682)-246-9671",
+    "url": "https://pokhrelapar.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "8157 Trudy Ln",
+      "postalCode": "75039",
+      "city": "Fort Worth",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
@@ -46,16 +46,27 @@
     }
   ],
   "education": [
+     {
+      "institution": "The University of Texas at Arlington",
+      "location": "Arlington, Texas",
+      "url": "https://www.uta.edu/",
+      "area": "",
+      "studyType": "M.S in Computer Science",
+      "startDate": "",
+      "endDate": "2022",
+      "score": "3.81"
+    },
+
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "The University of Texas at Arlington",
+      "location": "Arlington, Texas",
+      "url": "https://www.uta.edu/",
+      "area": "",
+      "studyType": "B.S in Computer Science",
+      "startDate": "",
+      "endDate": "2026",
+      "score": "4.0",
+      "courses": "Thesis: pending"
     }
   ],
   "awards": [
@@ -151,13 +162,28 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Neplai",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
@@ -173,18 +199,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
