@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: teaching
 permalink: /teaching/
 description: Courses and talks over the years
 nav: true
