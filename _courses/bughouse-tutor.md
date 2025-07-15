@@ -2,7 +2,7 @@
 layout: page
 title: BugHouse
 description: Tutoring various lower and upper level CSE courses.
-img: /assets/img/2.jpg
+img: 
 importance: 1
 category: Upward Bound Math and Science Center 
 related_publications:

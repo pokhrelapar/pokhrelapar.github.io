@@ -2,7 +2,7 @@
 layout: page
 title: UNIV-EN-1131
 description: Engineering Student Success, College of Engieering
-img: /assets/img/4.jpg
+img: 
 importance: 1
 category: University of Texas at Arlington 
 related_publications:

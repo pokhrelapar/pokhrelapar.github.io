@@ -2,7 +2,7 @@
 layout: page
 title: UNIV-SC-1131
 description: Sience Student Success, College of Science
-img: /assets/img/6.jpg
+img: 
 importance: 1
 category: University of Texas at Arlington 
 related_publications:
