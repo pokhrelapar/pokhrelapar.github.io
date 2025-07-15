@@ -418,7 +418,7 @@ ninja.data = [{
           section: "Courses",handler: () => {
               window.location.href = "/courses/bioinformatics/";
             },},{id: "courses-bughouse",
-          title: 'BugHouse',
+          title: 'bugHouse',
           description: "Tutoring various lower and upper level CSE courses.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/bughouse-tutor/";
