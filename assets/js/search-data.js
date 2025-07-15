@@ -434,12 +434,12 @@ ninja.data = [{
               window.location.href = "/courses/drone-design/";
             },},{id: "courses-univ-en-1131",
           title: 'UNIV-EN-1131',
-          description: "Engineering Student Success, College of Engieering",
+          description: "Student Success -Engineering, College of Engieering",
           section: "Courses",handler: () => {
               window.location.href = "/courses/engr-student-success/";
             },},{id: "courses-univ-sc-1131",
           title: 'UNIV-SC-1131',
-          description: "Sience Student Success, College of Science",
+          description: "Student Success - Science, College of Science",
           section: "Courses",handler: () => {
               window.location.href = "/courses/sc-student-success/";
             },},{id: "news-i-graduated-magna-cum-laude-from-the-university-of-texas-at-arlington-with-a-b-s-in-computer-science",
