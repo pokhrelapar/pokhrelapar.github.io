@@ -412,11 +412,36 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "courses-bioinformatics",
+          title: 'Bioinformatics',
+          description: "genomic analysis, protein structures, blood research, ML models,and medical image segmentation.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/bioinformatics/";
+            },},{id: "courses-bughouse",
+          title: 'BugHouse',
+          description: "Tutoring various lower and upper level CSE courses.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/bughouse-tutor/";
+            },},{id: "courses-cse-1325",
+          title: 'CSE 1325',
+          description: "TA for Object Oriented Programming (Java/C++)",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/cse-1325/";
             },},{id: "courses-drone-design",
           title: 'Drone Design',
           description: "Aerodynamics, control systems, electronics, and hands-on design",
           section: "Courses",handler: () => {
               window.location.href = "/courses/drone-design/";
+            },},{id: "courses-univ-en-1131",
+          title: 'UNIV-EN-1131',
+          description: "Engineering Student Success, College of Engieering",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/engr-student-success/";
+            },},{id: "courses-univ-sc-1131",
+          title: 'UNIV-SC-1131',
+          description: "Sience Student Success, College of Science",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/sc-student-success/";
             },},{id: "news-i-graduated-magna-cum-laude-from-the-university-of-texas-at-arlington-with-a-b-s-in-computer-science",
           title: 'I graduated Magna Cum Laude from The University of Texas at Arlington with...',
           description: "",
