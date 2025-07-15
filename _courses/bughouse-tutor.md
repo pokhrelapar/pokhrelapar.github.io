@@ -4,7 +4,7 @@ title: BugHouse
 description: Tutoring various lower and upper level CSE courses.
 img: 
 importance: 1
-category: Upward Bound Math and Science Center 
+category: University of Texas at Arlington
 related_publications:
 ---
 

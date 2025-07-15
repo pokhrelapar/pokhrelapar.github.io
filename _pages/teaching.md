@@ -6,7 +6,7 @@ description: Courses and talks over the years
 nav: true
 nav_order: 2
 display_categories: [University of Texas at Arlington, Upward Bound Math and Science Center ]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -22,7 +22,7 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include projects_horizontal.liquid %}
     {%- endfor %}
     </div>
   </div>
