@@ -2,7 +2,7 @@
 layout: page
 title: Bioinformatics
 description: genomic analysis, protein structures, blood research, ML models,and medical image segmentation.
-img:
+img: assets/img/bio.png
 importance: 1
 category: Upward Bound Math and Science Center 
 related_publications:

@@ -2,7 +2,7 @@
 layout: page
 title: Drone Design
 description: Aerodynamics, control systems, electronics, and hands-on design
-img: 
+img: assets/img/drone_design.jpg
 importance: 1
 category: Upward Bound Math and Science Center 
 related_publications:

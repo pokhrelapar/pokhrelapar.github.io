@@ -2,7 +2,7 @@
 layout: page
 title: BugHouse
 description: Tutoring various lower and upper level CSE courses.
-img: 
+img: assets/img/bughouse.png
 importance: 1
 category: University of Texas at Arlington
 related_publications:
