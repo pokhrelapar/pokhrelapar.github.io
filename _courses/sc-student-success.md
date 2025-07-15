@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Drone Design
-description: Aerodynamics, control systems, electronics, and hands-on design
-img: /assets/img/4.jpg
+title: UNIV-SC-1131
+description: Sience Student Success, College of Science
+img: /assets/img/6.jpg
 importance: 1
-category: Upward Bound Math and Science Center 
+category: University of Texas at Arlington 
 related_publications:
 ---
 
