@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Courses and talks over the years",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Courses and talks over the year",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -412,6 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "courses-drone-design",
+          title: 'Drone Design',
+          description: "Aerodynamics, control systems, electronics, and hands-on design",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/drone-design/";
             },},{id: "news-i-graduated-magna-cum-laude-from-the-university-of-texas-at-arlington-with-a-b-s-in-computer-science",
           title: 'I graduated Magna Cum Laude from The University of Texas at Arlington with...',
           description: "",
@@ -475,51 +480,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects1-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects1",handler: () => {
-              window.location.href = "/projects1/1_project/";
-            },},{id: "projects1-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects1",handler: () => {
-              window.location.href = "/projects1/2_project/";
-            },},{id: "projects1-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects1",handler: () => {
-              window.location.href = "/projects1/3_project/";
-            },},{id: "projects1-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects1",handler: () => {
-              window.location.href = "/projects1/4_project/";
-            },},{id: "projects1-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects1",handler: () => {
-              window.location.href = "/projects1/5_project/";
-            },},{id: "projects1-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects1",handler: () => {
-              window.location.href = "/projects1/6_project/";
-            },},{id: "projects1-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects1",handler: () => {
-              window.location.href = "/projects1/7_project/";
-            },},{id: "projects1-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects1",handler: () => {
-              window.location.href = "/projects1/8_project/";
-            },},{id: "projects1-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects1",handler: () => {
-              window.location.href = "/projects1/9_project/";
             },},{
         id: 'social-orcid',
         title: 'ORCID',
