@@ -6,7 +6,7 @@ description: Courses and talks over the years
 nav: true
 nav_order: 2
 display_categories: [University of Texas at Arlington, Upward Bound Math and Science Center ]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
