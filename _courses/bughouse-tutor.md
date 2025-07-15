@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BugHouse
+title: bugHouse
 description: Tutoring various lower and upper level CSE courses.
 img: assets/img/bughouse.png
 importance: 1
@@ -8,15 +8,76 @@ category: University of Texas at Arlington
 related_publications:
 ---
 
-+ _Lecture notes:_
-  + [Part 1 - Short intro to groups](https://drive.google.com/file/d/1v-YKjrsJo6jw6Vpd9hAe6iEMzkzmSo6j/view?usp=sharing).
-  + [Part 2 - The Euclidean plane](https://drive.google.com/file/d/1Jz0-JKkQwKjXuIsUQ1vsEQgeZ-uWPQ5t/view?usp=sharing).
-  + [Part 3 - Conics in R<sup>2</sup>](https://drive.google.com/file/d/1kKK8vchSKzLX_JVfDJfda9rONw6LD0Cu/view?usp=sharing).
-  + [Part 4 - Affine geometry](https://drive.google.com/file/d/1l5pRbKSJ-9lp2BmDTOVasMNO9Ufa6RB9/view?usp=sharing).
-  + [Part 5 - The projective plane](https://drive.google.com/file/d/1Xp1v3hSCtRP08Qe3W1ga07E8JBsptAtU/view?usp=sharing).
-  + [Part 6 - Cross ratio and conics in the projective plane](https://drive.google.com/file/d/1y4UvGIwxTZI8_oiCkRN2E2dy_cjm0LHB/view?usp=sharing).
+# The bugHouse – CSE Student Success Center 🎓
 
-  (Any typos or mistake reports are greatly appreciated, feel free to contact me if you catch anything incorrect, I'll try to keep the notes updated. Thank you in advance for your help!)
-+ [UVA Canvas webpage](https://canvas.its.virginia.edu/courses/57222).
-+ [Syllabus of the course](https://drive.google.com/file/d/1J3FVaLsmEXvCIVRpyCL51mMWMkvHmWwC/view?usp=sharing).
-+ For any questions related to the course, please contact me through the [UVA Canvas webpage](https://canvas.its.virginia.edu/courses/57700), or by email.
+Welcome to the CSE Student Success Center, known as **“the bugHouse”** at UT Arlington’s Department of Computer Science & Engineering. This center offers dedicated academic support to help students thrive.
+
+
+## 📚 Student Tutoring Program
+
+**Location:** ERB 570  
+**Regular Hours:** Mon – Fri | 10:00 AM – 6:00 PM  
+**Summer Hours (June 9 – Aug 6):** Mon – Fri | 12:00 PM – 6:00 PM
+
+Our drop-in tutoring supports students in 1000/2000/3000/4000-level courses across programming, math, computer organization, and more. Services include:
+
+- **Drop-in tutoring**—no appointment needed  
+- **Review sessions** for exam prep  
+- Support for both **individuals** and **small groups**  
+- Access to **reference materials** (textbooks, solution manuals)  
+- Focus on **skill development** like study strategies and problem-solving :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🚀 Future Initiatives
+
+The bugHouse is expanding with several new programs:
+
+### 1. Student Success Coaches  
+One-on-one guidance on:  
+- Time management  
+- Prioritization  
+- Effective study habits  
+- Note-taking  
+- Goal setting  
+- Test-taking strategies
+
+### 2. CommSkills  
+Oral presentation support through:  
+- Individual and group coaching  
+- Workshops on public speaking, Q&A handling, visuals  
+- Practice sessions with feedback  
+- A resource library and communication assessments 
+
+### 3. Technology & Skills Training  
+Hands-on workshops on:  
+- Programming languages (Python, Java, C++, JavaScript)  
+- Data analysis tools (Excel, R, MATLAB, Tableau)  
+- Industry software (MS Office, Adobe, AutoCAD)  
+- Certification prep (CompTIA A+, Network+, Security+, MCSA)  
+- Web & mobile development, cybersecurity  
+- Hands-on labs and project work  
+- Mentorship, résumé workshops, interview prep 
+
+---
+
+## 👥 Our Team
+
+- **Director: Dr. Marika Apostolova** – PhD, 18+ years in academic development   
+- **Superintendent: Dr. Carter Tiernan** – Asst. Dean, oversees student affairs and retention initiatives 
+
+---
+
+## 📬 Contact Information
+
+**Address:** ERB 570, CSE Department, The University of Texas at Arlington  
+**Phone:** 817‑272‑3785  
+
+---
+
+### 🔗 Useful Links
+
+- **Undergraduate Advising** – ERB 643–646 
+- **Graduate Advising** – ERB 630–655 :contentReference
+
+---
