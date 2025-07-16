@@ -1,7 +1,6 @@
 {
-  "basics": {
+  "bio": {
     "name": "Apar Pokhrel",
-    "Role": "Graduate Student",
     "image": "",
     "email": "apar.pokhrel@mavs.uta.edu",
     "phone": "(682)-246-9671",
@@ -13,16 +12,23 @@
       "city": "Fort Worth",
       "countryCode": "US",
       "region": "Texas"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
-  "work": [
+  "Research Interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Computer Vision & 3-D Reconstruction",
+        "Neural Rendering & Generative Models",
+        "Computational Biology & Medical Imaging",
+        "LLMs & Vision LLMS",
+        "Neural Networks & Deep Learning",
+        "Human/Robot Interaction"
+      ]
+    }
+  ],
+  "work experience": [
     {
       "name": "SAE International",
       "position": "Software Engineer",
@@ -31,18 +37,67 @@
       "endDate": "2024-02-01",
       "summary": "",
       "highlights": []
+    },
+    {
+      "name": "The University of Texas at Arlington",
+      "position": "Student Developer, IEEE Robotics",
+      "url": "https://websites.uta.edu/cseseniordesign/2022/04/11/2022-r5-ieee-robotics-competition/",
+      "startDate": "2021-08-01",
+      "endDate": "2022-05-01",
+      "summary": "Built an underwater ROV for the IEEE Robotics Competition 2022",
+      "highlights": []
     }
   ],
   "teaching": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "University of Texas at Arlington",
+      "location": "Arlington, Texas",
+      "position": "Graduate Teaching Assistant",
+      "url": "https://www.cse.uta.edu",
+      "startDate": "2024-08-01",
+      "endDate": "",
+      "summary": "Object Oriented Programming (Java/C++)",
+      "highlights": []
+    },
+    {
+      "organization": "University of Texas at Arlington",
+      "location": "Arlington, Texas",
+      "position": "bugHouse Tutor",
+      "url": "https://www.cse.uta.edu",
+      "startDate": "2024-08-01",
+      "endDate": "",
+      "summary": "Assisting CSE students in various lower and upper division courses",
+      "highlights": []
+    },
+    {
+      "organization": "Upward Bound Math & Science Center",
+      "location": "Arlington, Texas",
+      "position": "Instructor",
+      "url": "https://www.uta.edu/enrollment-management/trio/upward-bound-math-science",
+      "startDate": "2025-05-01",
+      "endDate": "2025-07-01",
+      "summary": "Drone Design",
+      "highlights": []
+    },
+    {
+      "organization": "Upward Bound Math & Science Center",
+      "location": "Arlington, Texas",
+      "position": "Instructor",
+      "url": "https://www.uta.edu/enrollment-management/trio/upward-bound-math-science",
+      "startDate": "2025-05-01",
+      "endDate": "2025-07-01",
+      "summary": "Bioinformatics",
+      "highlights": []
+    },
+    {
+      "organization": "University of Texas at Arlington",
+      "location": "Arlington, Texas",
+      "position": "Peer Academic Leader",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2022-05-01",
+      "summary": "Engineering and Science Student Success ",
+      "highlights": []
     }
   ],
   "education": [
@@ -52,8 +107,8 @@
       "url": "https://www.uta.edu/",
       "area": "",
       "studyType": "M.S in Computer Science",
-      "startDate": "",
-      "endDate": "2026-05",
+      "startDate": "2025-08-01",
+      "endDate": "2026-05-01",
       "score": "4.0",
       "courses": "Thesis: pending"
     },
@@ -64,8 +119,8 @@
       "url": "https://www.uta.edu/",
       "area": "",
       "studyType": "B.S in Computer Science",
-      "startDate": "",
-      "endDate": "2022-05",
+      "startDate": "2018-08-01",
+      "endDate": "2022-05-01",
       "score": "3.81",
       "courses": ""
     }
@@ -102,7 +157,7 @@
       "summary": "Optimizing backbone of YOLOv8 with custom architectures for parking space detection"
     }
   ],
-  "skills": [
+  "Technical Skills": [
     {
       "name": "Languages",
       "level": "",
@@ -183,7 +238,7 @@
     
   ],
 
-  "languages": [
+  "Languages": [
     {
       "language": "Nepali",
       "fluency": "Native speaker",
@@ -208,20 +263,6 @@
       "language": "Japanese",
       "fluency": "Basic",
       "icon": ""
-    }
-  ],
-  "Research Interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Computer Vision & 3-D Reconstruction",
-        "Neural Rendering & Generative Models",
-        "Computational Biology & Medical Imaging",
-        "LLMs & Vision LLMS",
-        "Neural Networks & Deep Learning",
-        "Human/Robot Interaction"
-      ]
     }
   ]
 }
