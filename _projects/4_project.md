@@ -5,7 +5,7 @@ description: Collection of coding projects from my CSE 5368 class
 img: assets/img/nn.jpg
 importance: 3
 category: academic
-giscus_comments: true
+giscus_comments: false
 ---
 
 

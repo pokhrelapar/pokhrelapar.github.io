@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Insure It
-description: Mobile app that  parses consumer receipts for easy insurance quote suggestion. 
+title: CareHive
+description: 3<sup>rd</sup> place @ Hackdemonium, ML model that detects neonatal pneumonia from chest radiographs
 img: 
 importance: 1
 category: hackathons
-giscus_comments: true
+giscus_comments: false
 ---
+
+### Project Page
+You can find the Devpost  here [here](https://devpost.com/software/carehive).
 

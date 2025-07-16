@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Insure It
-description: Mobile app that  parses consumer receipts for easy insurance quote suggestion. 
+title: 10 Years with Jake
+description: HackDFW, Interactive game that stimulates a 10-year State Farm home insurance plan 
 img: 
 importance: 1
 category: hackathons
-giscus_comments: true
+giscus_comments: false
 ---
+
+### Project Page
+You can find the Devpost  here [here](https://devpost.com/software/insurance-game-2zq4y8).
 

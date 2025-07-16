@@ -5,7 +5,7 @@ description: Collection of coding projects from my CSE 6363 class
 img: assets/img/ml.jpg
 importance: 1
 category: academic
-giscus_comments: true
+giscus_comments: false
 ---
 
 

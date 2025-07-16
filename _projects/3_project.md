@@ -5,7 +5,7 @@ description: Collection of coding projects from my CSE 6367 class
 img: assets/img/vision.jpg
 importance: 2
 category: academic
-giscus_comments: true
+giscus_comments: false
 ---
 
 

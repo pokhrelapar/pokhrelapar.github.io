@@ -5,7 +5,7 @@ description: A Python auto-grader to streamline grade entries in Canvas
 img: assets/img/canvas.png
 importance: 1
 category: fun
-giscus_comments: true
+giscus_comments: false
 ---
 
 
