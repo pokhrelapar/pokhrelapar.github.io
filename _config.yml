@@ -637,15 +637,15 @@ jekyll_get_json:
 
 jsonresume:
   - bio
-  - research Interests
+  - interests
   - publications
   - education
-  - work Experience
+  - work
   - teaching
   #- volunteer
   - awards
   #- certificates
-  - technical Skills
+  - technical
   - languages
   #- interests
   #- references

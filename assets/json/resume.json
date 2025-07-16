@@ -14,7 +14,7 @@
       "region": "Texas"
     }
   },
-  "Research Interests": [
+  "interests": [
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
@@ -28,7 +28,7 @@
       ]
     }
   ],
-  "work experience": [
+  "work": [
     {
       "name": "SAE International",
       "position": "Software Engineer",
@@ -157,7 +157,7 @@
       "summary": "Optimizing backbone of YOLOv8 with custom architectures for parking space detection"
     }
   ],
-  "Technical Skills": [
+  "technical": [
     {
       "name": "Languages",
       "level": "",
@@ -238,7 +238,7 @@
     
   ],
 
-  "Languages": [
+  "languages": [
     {
       "language": "Nepali",
       "fluency": "Native speaker",
