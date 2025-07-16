@@ -9,7 +9,7 @@ related_publications:
 ---
 
 
-# UNIV-SC-1131 – Student Success (_Science Cohort_)
+## UNIV-SC-1131 – Student Success (_Science Cohort_)
 
 As an **Instructor**, I was responsible in easing the transition into engineering studies at UTA through cohort-based resources, active mentorship, and hands-on learning.
 
@@ -18,7 +18,7 @@ As an **Instructor**, I was responsible in easing the transition into engineerin
 
 ---
 
-## 🔗 Key Resources
+### 🔗 Key Resources
 
 - Division of Student Success – UNIV Courses overview  
 - Experiential Learning philosophy & methods  

@@ -78,6 +78,6 @@ Hands-on workshops on:
 ### 🔗 Useful Links
 
 - **Undergraduate Advising** – ERB 643–646 
-- **Graduate Advising** – ERB 630–655 :contentReference
+- **Graduate Advising** – ERB 630–655
 
 ---
