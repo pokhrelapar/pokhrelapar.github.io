@@ -93,26 +93,34 @@ layout: default
               {% case data[0] %}
                 {% when 'bio' %}
                   {% include resume/basics.liquid %}
-                {% when 'education' %}
-                  {% include resume/education.liquid %}
-                {% when 'work' %}
-                  {% include resume/work.liquid %}
-                {% when 'interests' %}
-                  {% include resume/volunteer.liquid %}
-                {% when 'projects' %}
-                  {% include resume/projects.liquid %}
-                {% when 'awards' %}
-                  {% include resume/awards.liquid %}
-                {% when 'skills' %}
-                  {% include resume/skills.liquid %}
-                {% when 'publications' %}
-                  {% include resume/publications.liquid %}
-                {% when 'languages' %}
-                  {% include resume/languages.liquid %}
+
                 {% when 'interests' %}
                   {% include resume/interests.liquid %}
+                
+                {% when 'publications' %}
+                  {% include resume/publications.liquid %}
+
+                {% when 'education' %}
+                  {% include resume/education.liquid %}
+
+                {% when 'work' %}
+                  {% include resume/work.liquid %}
+
                 {% when 'teaching' %}
                   {% include resume/work.liquid %}
+
+                {% when 'projects' %}
+                  {% include resume/projects.liquid %}
+
+                {% when 'awards' %}
+                  {% include resume/awards.liquid %}
+
+                {% when 'skills' %}
+                  {% include resume/skills.liquid %}
+                
+                {% when 'languages' %}
+                  {% include resume/languages.liquid %}
+                  
                 {% when 'references' %}
                   {% include resume/references.liquid %}
                 {% else %}
