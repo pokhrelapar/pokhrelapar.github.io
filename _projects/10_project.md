@@ -3,7 +3,7 @@ layout: page
 title: 10 Years with Jake
 description: HackDFW, Interactive game that stimulates a 10-year State Farm home insurance plan 
 img: 
-importance: 1
+importance: 4
 category: hackathons
 giscus_comments: false
 ---

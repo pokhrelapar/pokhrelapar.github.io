@@ -3,7 +3,7 @@ layout: page
 title: CareHive
 description: 3<sup>rd</sup> place @ Hackdemonium, ML model that detects neonatal pneumonia from chest radiographs
 img: 
-importance: 1
+importance: 2
 category: hackathons
 giscus_comments: false
 ---

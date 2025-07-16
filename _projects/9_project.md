@@ -3,7 +3,7 @@ layout: page
 title: AgroHive
 description: HackTX, ML model that predicts 38 crop diseases across 13 crop varieties
 img: 
-importance: 1
+importance: 3
 category: hackathons
 giscus_comments: false
 ---

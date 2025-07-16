@@ -12,7 +12,7 @@ An engaging introduction to the world of computational biology and data-driven h
 
 + _Instructors_:
   + Apar Pokhrel
-  + Professor Pawpelier - Zeno 
+  + Dogtor BLAST - Zeno 
 
 [📄 View Syllabus](https://pokhrelapar.github.io/assets/pdf/Bio.pdf)
 

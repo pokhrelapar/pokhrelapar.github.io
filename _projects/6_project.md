@@ -2,7 +2,7 @@
 layout: page
 title: The Drowning Robot
 description: An underwater ROV for the IEEE Robotics Competition
-img:
+img: assets/img/robot.jpg
 importance: 1
 category: fun
 ---
