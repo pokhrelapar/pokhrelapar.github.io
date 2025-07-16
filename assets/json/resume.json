@@ -20,6 +20,57 @@
       }
     ]
   },
+  "interests": [
+    {
+      "name": "",
+      "icon": "",
+      "keywords": [
+        "Computer Vision & 3-D Reconstruction",
+        "Neural Rendering & Generative Models",
+        "Computational Biology & Medical Imaging",
+        "LLMs & Vision LLMS",
+        "Neural Networks & Deep Learning",
+        "Human/Robot Interaction"
+      ]
+    }
+  ],
+
+  "publications": [
+    {
+      "name": "Optimizing YOLOv8 for Parking Space Detection: Comparative Analysis of Custom Backbone Architectures",
+      "publisher": "Apar Pokhrel, Gia Dao",
+      "releaseDate": "2025-06",
+      "url": "https://arxiv.org/abs/2505.17364",
+      "summary": "Optimizing backbone of YOLOv8 with custom architectures for parking space detection"
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "The University of Texas at Arlington",
+      "location": "Arlington, Texas",
+      "url": "https://www.uta.edu/",
+      "area": "",
+      "studyType": "M.S in Computer Science",
+      "startDate": "2025-08-01",
+      "endDate": "2026-05-01",
+      "score": "4.0",
+      "courses": "Thesis: pending"
+    },
+
+    {
+      "institution": "The University of Texas at Arlington",
+      "location": "Arlington, Texas",
+      "url": "https://www.uta.edu/",
+      "area": "",
+      "studyType": "B.S in Computer Science",
+      "startDate": "2018-08-01",
+      "endDate": "2022-05-01",
+      "score": "3.81",
+      "courses": ""
+    }
+  ],
+
   "work": [
     {
       "name": "SAE International",
@@ -92,31 +143,7 @@
       "highlights": []
     }
   ],
-  "education": [
-    {
-      "institution": "The University of Texas at Arlington",
-      "location": "Arlington, Texas",
-      "url": "https://www.uta.edu/",
-      "area": "",
-      "studyType": "M.S in Computer Science",
-      "startDate": "2025-08-01",
-      "endDate": "2026-05-01",
-      "score": "4.0",
-      "courses": "Thesis: pending"
-    },
 
-    {
-      "institution": "The University of Texas at Arlington",
-      "location": "Arlington, Texas",
-      "url": "https://www.uta.edu/",
-      "area": "",
-      "studyType": "B.S in Computer Science",
-      "startDate": "2018-08-01",
-      "endDate": "2022-05-01",
-      "score": "3.81",
-      "courses": ""
-    }
-  ],
   "awards": [
     {
       "title": "Graduate Teaching Assistantship",
@@ -184,18 +211,9 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
-    {
-      "name": "Optimizing YOLOv8 for Parking Space Detection: Comparative Analysis of Custom Backbone Architectures",
-      "publisher": "Apar Pokhrel, Gia Dao",
-      "releaseDate": "2025-06",
-      "url": "https://arxiv.org/abs/2505.17364",
-      "summary": "Optimizing backbone of YOLOv8 with custom architectures for parking space detection"
-    }
-  ],
   "skills": [
       {
-      "name": "Languages",
+      "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-code",
       "keywords": [
@@ -297,20 +315,6 @@
       "language": "Japanese",
       "fluency": "Basic",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "",
-      "icon": "",
-      "keywords": [
-        "Computer Vision & 3-D Reconstruction",
-        "Neural Rendering & Generative Models",
-        "Computational Biology & Medical Imaging",
-        "LLMs & Vision LLMS",
-        "Neural Networks & Deep Learning",
-        "Human/Robot Interaction"
-      ]
     }
   ],
   "references": [
