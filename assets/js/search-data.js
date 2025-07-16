@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of all my projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -460,49 +460,54 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-ending-my-role-as-an-instructor-for-the-upward-bound-math-amp-amp-science-center",
           title: 'I will be ending my role as an Instructor for the Upward Bound...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-insure-it",
+          title: 'Insure It',
+          description: "Mobile app that  parses consumer receipts for easy insurance quote suggestion.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-comparative-analysis-of-custom-yolov8-backbones",
+          title: 'Comparative Analysis of Custom YOLOv8 Backbones',
+          description: "optimizing YOLOv8 backbones for parking space detection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-machine-learning",
+          title: 'Machine Learning',
+          description: "Collection of coding projects from my CSE 6363 class",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-computer-vision",
+          title: 'Computer Vision',
+          description: "Collection of coding projects from my CSE 6367 class",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-neural-networks",
+          title: 'Neural Networks',
+          description: "Collection of coding projects from my CSE 5368 class",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-canvas-auto-grader",
+          title: 'Canvas auto-grader',
+          description: "A Python auto-grader to streamline grade entries in Canvas",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-the-drowning-robot",
+          title: 'The Drowning Robot',
+          description: "An underwater ROV for the IEEE Robotics Competition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-insure-it",
+          title: 'Insure It',
+          description: "Mobile app that  parses consumer receipts for easy insurance quote suggestion.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-insure-it",
+          title: 'Insure It',
+          description: "Mobile app that  parses consumer receipts for easy insurance quote suggestion.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-insure-it",
+          title: 'Insure It',
+          description: "Mobile app that  parses consumer receipts for easy insurance quote suggestion.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
