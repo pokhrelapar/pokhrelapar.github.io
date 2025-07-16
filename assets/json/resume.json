@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "SAE International",
+      "position": "Software Engineer",
+      "url": "https://sae.org",
+      "startDate": "2022-09-01",
+      "endDate": "2024-02-01",
+      "summary": "",
+      "highlights": []
     }
   ],
   "teaching": [
@@ -53,8 +53,9 @@
       "area": "",
       "studyType": "M.S in Computer Science",
       "startDate": "",
-      "endDate": "2022",
-      "score": "3.81"
+      "endDate": "2026-05",
+      "score": "4.0",
+      "courses": "Thesis: pending"
     },
 
     {
@@ -64,105 +65,127 @@
       "area": "",
       "studyType": "B.S in Computer Science",
       "startDate": "",
-      "endDate": "2026",
-      "score": "4.0",
-      "courses": "Thesis: pending"
+      "endDate": "2022-05",
+      "score": "3.81",
+      "courses": ""
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Graduate Teaching Assistantship",
+      "date": "2024-08",
+      "awarder": "Department of Computer Science and Engineering, The University of Texas at Arlington",
+      "url": "https://www.cse.uta.edu",
+      "summary": "Awarded Graduate Teaching Assistantship in the amount of $15,000 per year"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Department of Education Dean’s Scholarship",
+      "date": "2024-08",
+      "awarder": "Department of Computer Science and Engineering, The University of Texas at Arlington",
+      "url": "https://www.cse.uta.edu",
+      "summary": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": " Maverick Academic Scholarship",
+      "date": "2022-08",
+      "awarder": "Department of Computer Science and Engineering, The University of Texas at Arlington",
+      "url": "https://www.cse.uta.edu",
+      "summary": "Awarded an annual scholarship of $24,000 per year for four years"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Optimizing YOLOv8 for Parking Space Detection: Comparative Analysis of Custom Backbone Architectures",
+      "publisher": "Apar Pokhrel, Gia Dao",
+      "releaseDate": "2025-06",
+      "url": "https://arxiv.org/abs/2505.17364",
+      "summary": "Optimizing backbone of YOLOv8 with custom architectures for parking space detection"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Languages",
+      "level": "",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Javascript",
+        "Java",
+        "SQL",
+        "C/C++"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "",
+      "icon": "fa-solid fa-database",
+      "keywords": [
+        "Oracle",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Neo4j"
+      ]
+    },
+    {
+      "name": "APIs & Integration",
+      "level": "",
+      "icon": "fa-solid fa-link",
+      "keywords": [
+        "OpenAPI",
+        "FastAPI",
+        "Swagger",
+        "REST"
+      ]
+    },
+    {
+      "name": "Libraries & Frameworks",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "LaTeX",
+        "ReactJS",
+        "Axios",
+        "Jest",
+        "NodeJS",
+        "ExpressJS",
+        "Bootstrap",
+        "TailwindCSS"
+      ]
+    },
+    {
+      "name": "Cloud & Developer Tools",
+      "level": "",
+      "icon": "fa-solid fa-cloud",
+      "keywords": [
+        "AWS",
+        "GCP",
+        "Git",
+        "Gitlab CI/CD",
+        "Jupyter",
+        "Jira",
+        "Postman",
+        "Elasticsearch"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "PyTorch",
+        "NumPy",
+        "Pandas",
+        "scikit-learn",
+        "NLTK"
       ]
     }
+    
   ],
+
   "languages": [
     {
-      "language": "Neplai",
+      "language": "Nepali",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -192,23 +215,13 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computer Vision & 3-D Reconstruction",
+        "Neural Rendering & Generative Models",
+        "Computational Biology & Medical Imaging",
+        "LLMs & Vision LLMS",
+        "Neural Networks & Deep Learning",
+        "Human/Robot Interaction"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
