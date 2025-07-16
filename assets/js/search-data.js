@@ -460,9 +460,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-ending-my-role-as-an-instructor-for-the-upward-bound-math-amp-amp-science-center",
           title: 'I will be ending my role as an Instructor for the Upward Bound...',
           description: "",
-          section: "News",},{id: "projects-insure-it",
-          title: 'Insure It',
-          description: "Mobile app that  parses consumer receipts for easy insurance quote suggestion.",
+          section: "News",},{id: "projects-10-years-with-jake",
+          title: '10 Years with Jake',
+          description: "HackDFW, Interactive game that stimulates a 10-year State Farm home insurance plan",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
             },},{id: "projects-comparative-analysis-of-custom-yolov8-backbones",
@@ -497,17 +497,17 @@ ninja.data = [{
               window.location.href = "/projects/6_project/";
             },},{id: "projects-insure-it",
           title: 'Insure It',
-          description: "Mobile app that  parses consumer receipts for easy insurance quote suggestion.",
+          description: "1st place @ HackUTA 2022,Mobile app that  parses consumer receipts for easy insurance quote suggestion.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-insure-it",
-          title: 'Insure It',
-          description: "Mobile app that  parses consumer receipts for easy insurance quote suggestion.",
+            },},{id: "projects-carehive",
+          title: 'CareHive',
+          description: "3rd place @ Hackdemonium, ML model that detects neonatal pneumonia from chest radiographs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-insure-it",
-          title: 'Insure It',
-          description: "Mobile app that  parses consumer receipts for easy insurance quote suggestion.",
+            },},{id: "projects-agrohive",
+          title: 'AgroHive',
+          description: "HackTX, ML model that predicts 38 crop diseases across 13 crop varieties",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
