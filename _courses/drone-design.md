@@ -16,22 +16,21 @@ I taught an interactive course introducing 20+ students from diffferent ISDs acr
   + Apar Pokhrel
   + Professor Pawpelier - Zeno
 
-[📄 View Syllabus](assets/pdf/Drone_Design_Syllabus.pdf)
+[📄 View Syllabus](https://pokhrelapar.github.io/assets/pdf/Drone_Design_Syllabus.pdf)
 
 
 ---
 
-
 + _Topics Covered:_
-  + [Anatomy of a Drone](assets/pdf/Anatomy.pdf)
-  + [Flight principles & Aerodynamics](assets/pdf/Flight_principles.pdf)
+  + [Anatomy of a Drone](https://pokhrelapar.github.io/assets/pdf/Anatomy.pdf)
+  + [Flight principles & Aerodynamics](https://pokhrelapar.github.io/assets/pdf/Flight_principles.pdf)
   + Control Systems
-  + [FAA guidelines & Safety](assets/pdf/faa.pptx)
-  + [Electronics and Components](assets/pdf/Drone_Components.pdf)
+  + [FAA guidelines & Safety](https://pokhrelapar.github.io/assets/pdf/faa.pptx)
+  + [Electronics and Components](https://pokhrelapar.github.io/assets/pdf/Drone_Components.pdf)
   + Hands on Design
   + Soldering
   + [Beta Flight](https://app.betaflight.com/).
-  + Lastly, you will get to fly actual drones. 
+  + Lastly, you will get to fly actual drones.
 
 ---
  

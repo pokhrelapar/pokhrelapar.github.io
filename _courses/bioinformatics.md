@@ -14,20 +14,21 @@ An engaging introduction to the world of computational biology and data-driven h
   + Apar Pokhrel
   + Professor Pawpelier - Zeno 
 
-[📄 View Syllabus](assets/pdf/Bio.pdf)
+[📄 View Syllabus](https://pokhrelapar.github.io/assets/pdf/Bio.pdf)
 
 ---
 
 + _Course topics:_
-  + [Scientific Methods](assets/pdf/ScientificMethod.pptx).
-  + [Medical & Public Health Datasets](assets/pdf/Medical-Datasets_Research.pptx)
-  + [Article annotations](assets/pdf/apa-style-research-activity.pdf).
-  + [Medical Research Programs & REUs]()
-  + [Human Genome Project](https://www.genome.gov/human-genome-project).
-  + [Genomic Analysis using BLAST]().
-  + [Blood research & disorders](https://drive.google.com/file/d/1y4UvGIwxTZI8_oiCkRN2E2dy_cjm0LHB/view?usp=sharing).
-  + [Genetic Disorders](https://drive.google.com/file/d/1y4UvGIwxTZI8_oiCkRN2E2dy_cjm0LHB/view?usp=sharing).
-  + [Vaccine Development]()
-  + [Genetic Engineering: Insulin](https://drive.google.com/file/d/1y4UvGIwxTZI8_oiCkRN2E2dy_cjm0LHB/view?usp=sharing).
-  + [Medical Image Segmentation](https://drive.google.com/file/d/1y4UvGIwxTZI8_oiCkRN2E2dy_cjm0LHB/view?usp=sharing).
-  + [CRISPR](https://drive.google.com/file/d/1y4UvGIwxTZI8_oiCkRN2E2dy_cjm0LHB/view?usp=sharing).
+  + [Scientific Methods](https://pokhrelapar.github.io/assets/pdf/ScientificMethod.pptx)
+  + [Medical & Public Health Datasets](https://pokhrelapar.github.io/assets/pdf/Medical-Datasets-Research.pptx)
+  + [Article annotations](https://pokhrelapar.github.io/assets/pdf/apa-style-research-activity.pdf)
+  + [Medical Research Programs & REUs](https://pokhrelapar.github.io/assets/pdf/Research-Programs_BloodResearch.pptx)
+  + [Human Genome Project](https://www.genome.gov/human-genome-project)
+  + [Genomic Analysis using BLAST](https://pokhrelapar.github.io/assets/pdf/BLAST.pdf), [Edit Distance](https://pokhrelapar.github.io/assets/pdf/EditDistance.pdf)
+  + [Blood research & disorders](https://pokhrelapar.github.io/assets/pdf/Research-Programs_BloodResearch.pptx).
+  + [Protein Structures](https://pokhrelapar.github.io/assets/pdf/proteinStructure.pdf)
+  + [Genetic Disorders](https://pokhrelapar.github.io/assets/pdf/assets/pdf/June-19.pptx).
+  + [Vaccine Development](https://pokhrelapar.github.io/assets/pdf/June19_Part2.pptx)
+  + Genetic Engineering: Insulin
+  + Medical Image Segmentation
+  + CRISPR
