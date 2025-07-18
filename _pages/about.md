@@ -35,6 +35,6 @@ I'm a graduate student here @ UT Arlington.
 
 I'm currently doing research at the Perception, Robotic Intelligence and Machine Learning Lab (PRIMaL Lab) with Dr. [Diego Patino](https://dipaco.github.io/). 
 
-My research focuses on Diffusion Models, Point Clouds, and Machine Learning, with an emphasis on developing methods for high-quality scene understanding and photorealistic novel view synthesis. I am also deeply invesed in Neural Rendering, especially [NeRF](https://www.matthewtancik.com/nerf) and [3-D Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/). These technologies are redefining how we reperesnt and render 3-D environments.
+My research focuses on Diffusion Models, Point Clouds, and Machine Learning, with an emphasis on developing methods for high-quality scene understanding and photorealistic novel view synthesis. I am also deeply invetsed in Neural Rendering, especially [NeRF](https://www.matthewtancik.com/nerf) and [3-D Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/). These technologies are redefining how we reperesnt and render 3-D environments.
 
 In my spare time, I enjoy spending time with Zeno (my 3-year old Golden Retriever), reading, watching anime, and hiking!
