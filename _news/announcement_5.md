@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be joining [SAE International](https://www.sae.org/) as a Software Engineer.
+Joining [SAE International](https://www.sae.org/) as a Software Engineer.

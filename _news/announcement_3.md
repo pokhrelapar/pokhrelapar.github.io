@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be joining The University of Texas at Arlington for my M.S. in Computer Science. :sparkles: :smile:
+Starting my M.S. in CS @ The University of Texas at Arlington. :sparkles: :smile:
