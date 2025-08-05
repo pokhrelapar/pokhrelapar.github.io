@@ -38,3 +38,5 @@ I'm currently doing research at the Perception, Robotic Intelligence and Machine
 My research focuses on Diffusion Models, Point Clouds, and Machine Learning, with an emphasis on developing methods for high-quality scene understanding and photorealistic novel view synthesis. I am also deeply invetsed in Neural Rendering, especially [NeRF](https://www.matthewtancik.com/nerf) and [3-D Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/). These technologies are redefining how we reperesnt and render 3-D environments.
 
 In my spare time, I enjoy spending time with Zeno (my 3-year old Golden Retriever), reading, watching anime, and hiking!
+
+I'm always open to discussing research, new ideas, or potential collaborations. Feel free to schedule a time with me [here.](https://calendly.com/aparpokhrel-ap/30min)
