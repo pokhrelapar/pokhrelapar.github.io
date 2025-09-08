@@ -37,7 +37,7 @@ I'm currently doing research at the Perception, Robotic Intelligence and Machine
 
 My work centers on diffusion models and neural point clouds for reconstructing 3D scene geometry and appearance. I’m developing pipelines that disentangle shape and appearance, enabling more accurate reconstruction, controllable scene editing, and benchmarking fidelity across real and synthetic datasets. I am also looking into Large Language Models (LLMs), with an emphasis on quantization and model compression, making foundation models faster, lighter, and more accessible.
 
-I also split my time on embodied AI and robotic manipulation at the [Robotic Vision](https://rvl.uta.edu/research/) with [Dr. William Beksi](https://ranger.uta.edu/~wjbeksi/), where I analyze Vision-Language-Action models (OpenVLA, TinyVLA, SmolVLA) to understand efficiency–accuracy trade-offs. I’ve also been building deployment pipelines on  low-latency control of a UR5 robotic arm.
+I also split my time on embodied AI and robotic manipulation at the [Robotic Vision Laboratory](https://rvl.uta.edu/research/) with [Dr. William Beksi](https://ranger.uta.edu/~wjbeksi/), where I analyze Vision-Language-Action models (OpenVLA, TinyVLA, SmolVLA) to understand efficiency–accuracy trade-offs. I’ve also been building deployment pipelines on  low-latency control of a UR5 robotic arm.
 
 Broadly, I’m fascinated by 3D representations (like NeRF and 3D Gaussian Splatting), foundation model compression, and the intersection of visual reasoning, language, and 3D perception. My long-term goal is to develop unified models that can both understand and generate complex, real-world scenes.
 
