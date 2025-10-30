@@ -35,7 +35,7 @@ I'm a graduate student here @ UT Arlington.
 
 I'm currently doing research at the Perception, Robotic Intelligence and Machine Learning Lab (PRIMaL Lab) with Dr. [Diego Patino](https://dipaco.github.io/). 
 
-My work centers on diffusion models and neural point clouds for reconstructing 3D scene geometry and appearance. I’m developing pipelines that disentangle shape and appearance, enabling more accurate reconstruction, controllable scene editing, and benchmarking fidelity across real and synthetic datasets. I am also looking into Large Language Models (LLMs), with an emphasis on quantization and model compression, making foundation models faster, lighter, and more accessible.
+My work centers on diffusion models and neural point clouds for reconstructing 3D scene geometry and appearance. I’m developing pipelines that disentangle shape and appearance, enabling more accurate reconstruction, controllable scene editing, and benchmarking fidelity across real and synthetic datasets. Additionally, I am also working on 3-D reconstruction pipelines using Unsigned Distance Funtion (UDF) and vector fields.
 
 I also split my time on embodied AI and robotic manipulation at the [Robotic Vision Laboratory](https://rvl.uta.edu/research/) with [Dr. William Beksi](https://ranger.uta.edu/~wjbeksi/), where I analyze Vision-Language-Action models (OpenVLA, TinyVLA, SmolVLA) to understand efficiency–accuracy trade-offs. I’ve also been building deployment pipelines on  low-latency control of a UR5 robotic arm.
 
