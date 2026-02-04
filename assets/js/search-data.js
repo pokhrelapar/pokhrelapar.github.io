@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "Here&#39;s my CV attached.",
@@ -37,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-neural-odes",
         
-          title: "a post with plotly.js",
+          title: "Neural ODEs",
         
-        description: "this is what included plotly.js code could look like",
+        description: "What are Neural Ordinary Differential Equations?",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/nodes/";
           
         },
       },{id: "post-a-post-with-image-galleries",
