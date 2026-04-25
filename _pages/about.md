@@ -35,12 +35,12 @@ I'm a graduate student here @ UT Arlington.
 
 I'm currently doing research at the Perception, Robotic Intelligence and Machine Learning Lab (PRIMaL Lab) with Dr. [Diego Patino](https://dipaco.github.io/). 
 
-My work centers on diffusion models and neural point clouds for reconstructing 3D scene geometry and appearance. I’m developing pipelines that disentangle shape and appearance, enabling more accurate reconstruction, controllable scene editing, and benchmarking fidelity across real and synthetic datasets. Additionally, I am also working on 3-D reconstruction pipelines using Unsigned Distance Funtion (UDF) and vector fields.
+My work focuses on learning-based 3D perception and generative scene representations. My work explores diffusion models and neural point clouds for reconstructing 3D geometry and appearance, with an emphasis on disentangling shape and appearance to enable accurate reconstruction and controllable editing. I have also worked on Neuromorphic Vision and event-based perception, focusing on contrastive learning and teacher–student frameworks for asynchronous event streams. This includes event-based video frame interpolation and temporal representation learning to bridge sparse event data with dense visual reconstruction.
 
-I also split my time on embodied AI and robotic manipulation at the [Robotic Vision Laboratory](https://rvl.uta.edu/research/) with [Dr. William Beksi](https://ranger.uta.edu/~wjbeksi/), where I analyze Vision-Language-Action models (OpenVLA, TinyVLA, SmolVLA) to understand efficiency–accuracy trade-offs. I’ve also been building deployment pipelines on  low-latency control of a UR5 robotic arm.
+In parallel, I also work on Embodied AI and Robotics. My work focuses on Vision-Language-Action models (OpenVLA, TinyVLA, and SmolVLA) to understand efficiency–accuracy trade-offs for deployment. I also develop and test RL-based policies for Multi-Skill RL for humanoid agents.
 
-Broadly, I’m fascinated by 3D representations (like NeRF and 3D Gaussian Splatting), foundation model compression, and the intersection of visual reasoning, language, and 3D perception. My long-term goal is to develop unified models that can both understand and generate complex, real-world scenes.
+Broadly, I’m fascinated by 3D representations (like NeRF and 3D Gaussian Splatting), foundation models, and the intersection of visual reasoning, language, and 3D perception. My long-term goal is to develop unified models that can both understand and generate complex, real-world scenes.
 
 In my spare time, I enjoy spending time with Zeno (my 3-year old Golden Retriever), reading, watching anime, and hiking!
 
-I'm always open to discussing research, new ideas, or potential collaborations. Feel free to schedule a time with me [here.](https://calendly.com/aparpokhrel-ap/30min)
+I'm always open to discussing research, new ideas, or potential collaborations.
