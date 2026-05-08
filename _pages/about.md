@@ -35,7 +35,7 @@ I'm a graduate student here @ UT Arlington.
 
 I'm currently doing research at the Perception, Robotic Intelligence and Machine Learning Lab (PRIMaL Lab) with Dr. [Diego Patino](https://dipaco.github.io/). 
 
-My work focuses on learning-based 3D perception and generative scene representations. My work explores diffusion models and neural point clouds for reconstructing 3D geometry and appearance, with an emphasis on disentangling shape and appearance to enable accurate reconstruction and controllable editing. I have also worked on Neuromorphic Vision and event-based perception, focusing on contrastive learning and teacher–student frameworks for asynchronous event streams. This includes event-based video frame interpolation and temporal representation learning to bridge sparse event data with dense visual reconstruction.
+My work focuses on learning-based 3D perception and generative scene representations. My work explores diffusion models and neural point clouds for reconstructing 3D geometry and appearance, with an emphasis on disentangling shape and appearance to enable accurate reconstruction and controllable editing. I have also worked on Neuromorphic Vision and event-based perception, focusing on self-supervised learning (SSL) and teacher–student frameworks for asynchronous event streams. This includes event-based video frame interpolation and temporal representation learning to bridge sparse event data with dense visual reconstruction.
 
 In parallel, I also work on Embodied AI and Robotics. My work focuses on Vision-Language-Action models (OpenVLA, TinyVLA, and SmolVLA) to understand efficiency–accuracy trade-offs for deployment. I also develop and test RL-based policies for Multi-Skill RL for humanoid agents.
 
