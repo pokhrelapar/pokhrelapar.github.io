@@ -2,7 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: Courses and talks over the years
+description: My attempts in building the next generation of STEM leaders
 nav: true
 nav_order: 2
 display_categories: [University of Texas at Arlington, Upward Bound Math and Science Center ]
