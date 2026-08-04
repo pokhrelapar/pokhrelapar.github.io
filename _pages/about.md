@@ -29,37 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
----
-layout: about
-title: about
-permalink: /
-subtitle: Research @ <a href='https://cse.uta.edu/'>UT Arlington</a>
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    apar.pokhrel@mavs.uta.edu<br>
-    Computer Science & Engineering<br>
-    University of Texas - Arlington<br>
-    
-  
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 8 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
-
-
 Hello! I'm **Apar Pokhrel**, a Research Assistant at the [UT Arlington Research Institute](https://utari.uta.edu/research/automation-and-intelligent-systems/) working on Computer Vision and Autonomous Systems to enable intelligent pereception and decision-making. I also conduct research in  Neuromorphic Vision and Machine Learning, advised by Dr. [Diego Patiño](https://dipaco.github.io/).
 
 My research sits at the intersection of **Computer Vision, Embodied AI, and Machine Learning**, with the goal of building intelligent systems that can perceive, understand, and interact with the physical world.
