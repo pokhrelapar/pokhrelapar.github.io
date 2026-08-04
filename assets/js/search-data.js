@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses and talks over the years",
+          description: "My attempts in building the next generation of STEM leaders",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -422,6 +422,11 @@ ninja.data = [{
           description: "Tutoring various lower and upper level CSE courses.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/bughouse-tutor/";
+            },},{id: "courses-calculus",
+          title: 'Calculus',
+          description: "Limits, Derivatives, Intergration",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/calculus/";
             },},{id: "courses-cse-1325",
           title: 'CSE 1325',
           description: "TA for Object Oriented Programming (Java/C++)",
