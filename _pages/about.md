@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm **Apar Pokhrel**, a Research Engineer at the [UT Arlington Research Institute](https://utari.uta.edu/research/automation-and-intelligent-systems/) working on Computer Vision and Autonomous Systems to enable intelligent pereception and decision-making. I also conduct research in  Neuromorphic Vision and Machine Learning, advised by Dr. [Diego Patiño](https://dipaco.github.io/).
+Hello! I'm **Apar Pokhrel**, a Research Assistant at the [UT Arlington Research Institute](https://utari.uta.edu/research/automation-and-intelligent-systems/) working on Computer Vision and Autonomous Systems to enable intelligent pereception and decision-making. I also conduct research in  Neuromorphic Vision and Machine Learning, advised by Dr. [Diego Patiño](https://dipaco.github.io/).
 
 My research sits at the intersection of **Computer Vision, Embodied AI, and Machine Learning**, with the goal of building intelligent systems that can perceive, understand, and interact with the physical world.
 

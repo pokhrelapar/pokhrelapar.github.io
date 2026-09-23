@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing collection of all my projects.
 nav: true
-nav_order: 5
+nav_order: 3
 display_categories: [academic, research, hackathons, fun]
 horizontal: false
 ---
