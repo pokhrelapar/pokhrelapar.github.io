@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-robot-vision",
-          title: "Robot × Vision",
-          description: "Robotics, computer vision, and embodied AI projects.",
+        },{id: "nav-robots-vision",
+          title: "robots*vision",
+          description: "Robotics, computer vision, and embodied AI",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/robotxvision/";
+            window.location.href = "/robots/";
           },
         },{id: "nav-projects",
           title: "projects",
