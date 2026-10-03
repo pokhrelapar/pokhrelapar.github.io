@@ -4,6 +4,6 @@ title: Kilua
 description: ROBOTIS AI Worker
 img: assets/img/woker.jpeg
 importance: 1
-category: robots
+category: robotics
 related_publications: false
 ---

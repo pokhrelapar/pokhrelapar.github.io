@@ -4,6 +4,6 @@ title: Levi
 description: myBuddy 280 Elephant Robotics
 img: assets/img/cobot.jpg
 importance: 1
-category: robots
+category: robotics
 related_publications: false
 ---

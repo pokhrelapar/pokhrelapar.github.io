@@ -4,6 +4,6 @@ title: Asta
 description: Ryan CompanionBot
 img: assets/img/ryan.jpg
 importance: 1
-category: robots
+category: robotics
 related_publications: false
 ---
