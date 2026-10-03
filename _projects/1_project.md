@@ -8,16 +8,6 @@ category: research
 related_publications: true
 ---
 
----
-layout: page
-title: Comparative Analysis of Custom YOLOv8 Backbones
-description: Optimizing YOLOv8 backbones for parking space detection
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: true
----
-
 This project focuses on **optimizing YOLOv8 backbone architectures** for parking space detection using the PKLot dataset. We explored multiple lightweight and high-performance backbone models to achieve better precision–recall trade-offs, reduced inference latency, and enhanced computational efficiency for real-time applications.
 
 ---
