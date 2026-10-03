@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "My attempts in building the next generation of STEM leaders",
+        },{id: "nav-robot-vision",
+          title: "Robot × Vision",
+          description: "Robotics, computer vision, and embodied AI projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/robotxvision/";
           },
         },{id: "nav-projects",
           title: "projects",
@@ -29,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "My attempts in building the next generation of STEM leaders",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "nav-blog",
           title: "blog",
@@ -518,6 +525,36 @@ ninja.data = [{
           description: "HackTX, ML model that predicts 38 crop diseases across 13 crop varieties",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "robots-kilua",
+          title: 'Kilua',
+          description: "ROBOTIS AI Worker",
+          section: "Robots",handler: () => {
+              window.location.href = "/robots/robot_1/";
+            },},{id: "robots-naruto",
+          title: 'Naruto',
+          description: "baxter rethink robotics",
+          section: "Robots",handler: () => {
+              window.location.href = "/robots/robot_2/";
+            },},{id: "robots-asta",
+          title: 'Asta',
+          description: "Ryan CompanionBot",
+          section: "Robots",handler: () => {
+              window.location.href = "/robots/robot_3/";
+            },},{id: "robots-yuno",
+          title: 'Yuno',
+          description: "Hiwonder ROSOrin",
+          section: "Robots",handler: () => {
+              window.location.href = "/robots/robot_4/";
+            },},{id: "robots-luffy",
+          title: 'Luffy',
+          description: "Franka R3",
+          section: "Robots",handler: () => {
+              window.location.href = "/robots/robot_5/";
+            },},{id: "robots-levi",
+          title: 'Levi',
+          description: "myBuddy 280 Elephant Robotics",
+          section: "Robots",handler: () => {
+              window.location.href = "/robots/robot_6/";
             },},{
         id: 'social-orcid',
         title: 'ORCID',
